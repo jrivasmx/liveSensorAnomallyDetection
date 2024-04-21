@@ -1,0 +1,9 @@
+numpy
+matplotlib
+seaborn
+flask
+pandas
+datetime
+statsmodels
+sktime
+scikit-learn
